@@ -38,3 +38,6 @@ Proper error handling and connection management.
 
 Outcome:
 The deliverable is a live chat web application where users can connect, chat, and communicate in real time. This project demonstrates understanding of asynchronous communication, event-driven architecture, and full-stack integration, making it a valuable experience for building scalable, real-time web applications.
+
+# OUTPUT OF THE TASK :
+
