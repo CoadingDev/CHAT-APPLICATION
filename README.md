@@ -30,4 +30,6 @@ Despite the fact that the application itself now operates with temporary in-memo
 Overall, RealChat demonstrates how real-time applications can be efficiently built using a focused tech stack. This project allowed me to apply practical full-stack development skills and better understand the principles of live communication systems, user session management, and responsive interface design.
 
 # OUTPUT OF THE TASK :
+![Image](https://github.com/user-attachments/assets/cce16e0e-e2ae-4fc5-9576-b04e99dbc140)
 
+![Image](https://github.com/user-attachments/assets/d5ae65f0-a888-4d24-8a3b-d5c3d4b8cf8f)
